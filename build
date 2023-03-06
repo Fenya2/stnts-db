@@ -1,0 +1,4 @@
+g++ -c -o test.o test.cpp
+g++ -c -o Student.o Student.cpp
+g++ -c -o StudentDB.o StudentDB.cpp
+g++ -o test test.o Student.o StudentDB.o
