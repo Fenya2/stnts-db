@@ -1,8 +1,0 @@
-0:Pupkin1:Vasiliy:Sergeevich:100
-1:Pupkin2:Vasiliy:Sergeevich:100
-2:Pupkin3:Vasiliy:Sergeevich:100
-3:Pupkin4:Vasiliy:Sergeevich:100
-4:Pupkin1:Vasiliy:Sergeevich:100
-5:Pupkin2:Vasiliy:Sergeevich:100
-6:Pupkin3:Vasiliy:Sergeevich:100
-7:Pupkin4:Vasiliy:Sergeevich:100
